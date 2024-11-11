@@ -1,6 +1,6 @@
 # Connect-4 React App
 
-This is a simple Connect-4 game built using React. The app provides a two-player mode where players alternate dropping pieces into the grid, with the objective of connecting four pieces in a row vertically, horizontally, or diagonally.
+This is a simple Connect-4 game built using React. The app provides a two-player mode where players alternate dropping pieces into the grid, with the objective of connecting four pieces in a row vertically or horizontally.
 
 ### Demo
 
