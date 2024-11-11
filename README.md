@@ -12,9 +12,12 @@ Two-player mode with alternating turns
 Winning streak detection (horizontal and vertical)
 
 ### Prerequisites
+
 Ensure you have the following installed on your local machine:
-Node.js (version 14 or above recommended)
-Git
+
+**Node.js** (version 14 or above recommended)
+
+**Git**
 
 ## Getting Started
 Follow these instructions to set up and run the app locally.
