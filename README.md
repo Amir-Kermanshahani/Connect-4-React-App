@@ -7,9 +7,9 @@ This is a simple Connect-4 game built using React. The app provides a two-player
 ![image](https://github.com/user-attachments/assets/153bcecd-0212-4cb3-836a-e2567823ae0a)
 
 ### Features
-Interactive Connect-4 game with a 7x6 grid
+Interactive Connect-4 game with a 4x4 grid
 Two-player mode with alternating turns
-Winning streak detection (horizontal, vertical, and diagonal)
+Winning streak detection (horizontal and vertical)
 
 ### Prerequisites
 Ensure you have the following installed on your local machine:
