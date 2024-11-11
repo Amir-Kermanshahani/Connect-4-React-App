@@ -4,7 +4,7 @@ This is a simple Connect-4 game built using React. The app provides a two-player
 
 ### Demo
 
-![image](https://github.com/user-attachments/assets/153bcecd-0212-4cb3-836a-e2567823ae0a)
+![image](https://github.com/user-attachments/assets/76772fb0-ffd6-4e59-9269-add5eeb368df)
 
 ### Features
 Interactive Connect-4 game with a 4x4 grid
